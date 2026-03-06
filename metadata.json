@@ -1,0 +1,5 @@
+{
+  "name": "BarberFlow",
+  "description": "Sistema completo de gestão e agendamento para barbearias com notificações via WhatsApp.",
+  "requestFramePermissions": []
+}
